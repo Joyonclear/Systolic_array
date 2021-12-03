@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/huiseong/fpga_workspace/chisel_workspace/weight_stationary_SA/src/test/scala/tb_main.scala:46:44: value \ is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m		    println("$ Result of index("+i+") = "\n+ dut.io.o_result(i).peek().toString)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/huiseong/fpga_workspace/chisel_workspace/weight_stationary_SA/src/test/scala/tb_main.scala:46:45: not found: value n[0m
+[0m[[0m[31merror[0m] [0m[0m		    println("$ Result of index("+i+") = "\n+ dut.io.o_result(i).peek().toString)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/huiseong/fpga_workspace/chisel_workspace/weight_stationary_PE/src/test/scala/tb_main.scala:25:33: value o_result is not a member of chisel3.Bundle{val i_loading: chisel3.Bool; val i_feature: chisel3.SInt; val i_weight: chisel3.SInt; val i_sum: chisel3.SInt; val o_feature: chisel3.SInt; val o_weight: chisel3.SInt; val o_sum: chisel3.SInt}[0m
+[0m[[0m[31merror[0m] [0m[0m		println("$ Result = "+ dut.io.o_result.peek().toString)[0m
+[0m[[0m[31merror[0m] [0m[0m		                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

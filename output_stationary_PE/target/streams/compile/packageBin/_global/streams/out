@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/huiseong/fpga_workspace/chisel_workspace/output_stationary_PE/target/scala-2.12/template_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	osPE[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huiseong/fpga_workspace/chisel_workspace/output_stationary_PE/target/scala-2.12/classes/osPE[0m
+[0m[[0m[0mdebug[0m] [0m[0m	osPE/obj_osPE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huiseong/fpga_workspace/chisel_workspace/output_stationary_PE/target/scala-2.12/classes/osPE/obj_osPE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	osPE/obj_osPE$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huiseong/fpga_workspace/chisel_workspace/output_stationary_PE/target/scala-2.12/classes/osPE/obj_osPE$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	osPE/osPE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huiseong/fpga_workspace/chisel_workspace/output_stationary_PE/target/scala-2.12/classes/osPE/osPE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	osPE/obj_osPE$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huiseong/fpga_workspace/chisel_workspace/output_stationary_PE/target/scala-2.12/classes/osPE/obj_osPE$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	osPE/osPE$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/huiseong/fpga_workspace/chisel_workspace/output_stationary_PE/target/scala-2.12/classes/osPE/osPE$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

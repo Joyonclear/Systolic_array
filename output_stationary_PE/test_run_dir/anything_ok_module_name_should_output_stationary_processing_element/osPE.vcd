@@ -1,0 +1,98 @@
+$date
+2021-12-03T12:02+0000
+$end
+$version
+0.2
+$end
+$comment
+
+$end
+$timescale 1ns  $end
+$scope module osPE $end
+ $var wire 8 ! r_weight $end
+ $var wire 8 " r_feature $end
+ $var wire 16 # io_o_sum $end
+ $var wire 17 $ _r_mac_T_1 $end
+ $var wire 16 % r_mac $end
+ $var wire 8 & io_o_weight $end
+ $var wire 8 ' io_o_feature $end
+ $var wire 8 ( io_i_feature $end
+ $var wire 1 ) clock $end
+ $var wire 8 * io_i_weight $end
+ $var wire 16 + _r_mac_T_2 $end
+ $var wire 1 , reset $end
+ $var wire 16 - _r_mac_T $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+b00000000 (
+b0000000000000000 +
+0)
+b0000000000000000 %
+b00000000 !
+b00000000000000000 $
+b00000000 "
+b0000000000000000 -
+b00000000 &
+0,
+b00000000 *
+b0000000000000000 #
+b00000000 '
+$end
+#0
+1,
+#1
+1)
+#6
+0,
+0)
+#11
+1)
+#16
+0)
+#21
+1)
+#26
+0)
+#31
+1)
+#36
+0)
+#41
+1)
+#46
+0)
+#51
+1)
+#56
+b1111111111010011 -
+b11110111 *
+b11111111111010011 $
+b1111111111010011 +
+b00000101 (
+0)
+#61
+b11110111 !
+b1111111111010011 %
+b00000101 "
+b11110111 &
+b1111111111010011 #
+b00000101 '
+b11111111110100110 $
+b1111111110100110 +
+1)
+#66
+b0000000000000000 -
+b00000000 *
+b11111111111010011 $
+b1111111111010011 +
+b00000000 (
+0)
+#71
+b00000000 !
+b00000000 "
+b00000000 &
+b00000000 '
+1)
+#76
+0)

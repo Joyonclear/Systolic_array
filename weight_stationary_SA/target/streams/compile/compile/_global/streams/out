@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/huiseong/fpga_workspace/chisel_workspace/weight_stationary_SA/src/main/scala/wsPE.scala:25:4: value others is not a member of chisel3.WhenContext[0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a semicolon is missing before `value others'?[0m
+[0m[[0m[31merror[0m] [0m[0m  .others {[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
